@@ -1,3 +1,4 @@
+/*configuration*/
 module.exports = {
   plugins: {
     tailwindcss: {},
